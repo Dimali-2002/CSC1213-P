@@ -1,1 +1,17 @@
-
+Date: 12/03/2025
+Practical No.: 01
+Problem Specification: Print the statement
+Implementation:
+//class<class_name>
+class MyFirstJavaProgram{
+	public static void main(String[] args)
+	{
+		System.out.println(" My First Programme in Java");
+		System.out.println(" Hello Java Developers !!!");
+		
+	}// end of the main
+}//end of the class.
+Output: 
+My First Programme in Java
+Hello Java Developers !!!
+Conclusion: Learned about Java programming
