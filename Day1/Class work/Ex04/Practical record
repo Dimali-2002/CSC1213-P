@@ -1,1 +1,26 @@
+Date: 12/03/2025
+Practical No: 04
+Problem Specification:Arithmetic Operations in Java
+Implementation:
+class Ex04{
+	public static void main(String[] args)
+	{
+		int x=10;
+		int y=2;
+		
+		System.out.println("Addition is : "+(x+y));
+		System.out.println("Substraction is : "+(x-y));
+		System.out.println("Multiplication is : "+(x*y));
+		System.out.println("Division is : "+(x/y));
+		System.out.println("Modulus is : "+(x%y));
+		
+	}
+}
+Output:
+Addition is : 12  
+Subtraction is : 8  
+Multiplication is : 20  
+Division is : 5  
+Modulus is : 0
 
+Conclusion: Learned about how use arithmatic operators in java
