@@ -1,1 +1,31 @@
+Date: 12/03/2025
+Practical No.: 05
+Problem Specification:Student Details Program in Java
+Implementation:
+class StuDetails{
+	public static void main(String args[])
+	{
+		System.out.println("Name: Sountharajah Janany");
+		System.out.println("Registration Number:2018/ASP/01");
+		System.out.println("Degree Programme:BSc.ComputerScience");
+		System.out.println();
+		
+		String Name="Sountharajah Janany";
+		String RegNo="2018/ASP/01";
+		String Degree="BSc.ComputerScience";
+		
+		System.out.println("Full Name : "+Name);
+		System.out.println("Registration Number : "+RegNo);
+		System.out.println("Degree Programme : "+Degree);
+	}
+}
+Output:
+Name: Sountharajah Janany
+Registration Number: 2018/ASP/01
+Degree Programme: BSc.ComputerScience
 
+Full Name : Sountharajah Janany
+Registration Number : 2018/ASP/01
+Degree Programme : BSc.ComputerScience
+
+Conclusion:The StuDetails Java program effectively demonstrates the use of System.out.println() to display student details in two ways.
