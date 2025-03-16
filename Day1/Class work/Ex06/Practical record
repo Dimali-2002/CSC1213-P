@@ -1,1 +1,15 @@
+Date: 12/03/2025
+Practical No.: 06
+Problem Specification: Student Details Program
+Implementation:
+class StudentDetails{
+	public static void main(String args[]){
+		System.out.println("First Name : Janany \nLast Name : Sountharajah \nAddress : Kurumankaadu,Vavuniya");
+	}
+}
+Output:
+First Name : Janany  
+Last Name : Sountharajah  
+Address : Kurumankaadu, Vavuniya  
 
+Conclusion: This programme demonstrates basic Java syntax.
